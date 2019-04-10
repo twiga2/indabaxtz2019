@@ -9,7 +9,7 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
 1. Foundation of Machine Learning by CIVE Team
 2. Invited Talk 1 by Ally Salim Jr
 3. Machine Learning using Javascript by Joshua Mabina
-4. [Indaba Application Motivation by IndabaXTZ Team](https://github.com/twiga2/indabaxtz2019/talks/AI_Africa.pdf)
+4. [Indaba Application Motivation](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AI_Africa.pdf) by IndabaXTZ Team
 
 ### Day 2
 1. Mathematics for Machine Learning
