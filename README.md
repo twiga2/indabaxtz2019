@@ -13,12 +13,7 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
 3. Invited Talk 1 by Ally Salim Jr
 4. [Machine Learning using Javascript](https://docs.google.com/presentation/d/14F6hFdz32VZ6epuYgGkU3rPSoA59UVBwfcU4HzX7HLk/edit?usp=sharing) by Joshua Mabina
 5. [Indaba Application Motivation](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AI_Africa.pdf) by IndabaXTZ Team
-=======
-1. [Foundation of Machine Learning](https://github.com/twiga2/indabaxtz2019/tree/master/talks/FoundationML.pdf) by Waziri Shebogholo and CIVE Team
-      * Notebook 1: [Foundation for ML](https://github.com/twiga2/indabaxtz2019/tree/master/notebooks/FoundationPyML.ipynb)
-2. Invited Talk 1 by Ally Salim Jr
-3. [Machine Learning using Javascript](https://docs.google.com/presentation/d/14F6hFdz32VZ6epuYgGkU3rPSoA59UVBwfcU4HzX7HLk/edit?usp=sharing) by Joshua Mabina
-4. [Indaba Application Motivation](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AI_Africa.pdf) by IndabaXTZ Team
+
 
 ### Day 2
 1. Mathematics for Machine Learning
@@ -29,7 +24,7 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
       * [Applying Transfer Learning on a Residual Network for Diagnosing UTI](https://github.com/twiga2/indabaxtz2019/tree/master/posters/UTI_diagnosis.pdf)
       * [Applying Transfer Learning on MOBINET for Facial Authentication](https://github.com/twiga2/indabaxtz2019/tree/master/posters/MobiNet_FacialAuthentication.pdf)
       * [Development of Machine Learning Algorithm for Classifying Banana Diseases from Leaf Images](https://github.com/twiga2/indabaxtz2019/tree/master/posters/BananaDiseasesDiagnosis.pdf)
-      * [Early Maize Diseases Detector]((https://github.com/twiga2/indabaxtz2019/tree/master/posters/MaizeDiseasesDetection.pdf)
+      * [Early Maize Diseases Detector](https://github.com/twiga2/indabaxtz2019/tree/master/posters/MaizeDiseasesDetection.pdf)
       * [Health care prediction using data mining system (HPDMS)](https://github.com/twiga2/indabaxtz2019/tree/master/posters/HealthCare_DataMiningTool.pdf)
       * [Leveraging Machine Intelligence for Pneumonia Diagnosis](https://github.com/twiga2/indabaxtz2019/tree/master/posters/ML_Pneumonia.pdf)
 
