@@ -10,8 +10,8 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
 1. [Foundation of Machine Learning, Part 1](https://github.com/twiga2/indabaxtz2019/tree/master/talks/FoundationML.pdf) by Waziri Shebogholo and Ibrahim Mtandu
     * Notebook 1: [Foundation for ML](https://github.com/twiga2/indabaxtz2019/tree/master/notebooks/FoundationPyML.ipynb)
 2. [Foundation of Machine Learning, Part 2](https://github.com/twiga2/indabaxtz2019/tree/master/notebooks/LinearRegression.rar) by Frederick Apina and Ibrahim Mtandu
-3. Invited Talk 1 by Ally Salim Jr
-4. [Machine Learning using Javascript](https://docs.google.com/presentation/d/14F6hFdz32VZ6epuYgGkU3rPSoA59UVBwfcU4HzX7HLk/edit?usp=sharing) by Joshua Mabina
+3. Invited Talk 1: [AI and Healthcare](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AIandHealthcareIndabaTZ.pdf), *And making responsible Impact* by Ally Jr Salim 
+4. [Machine Learning using Javascript](https://github.com/twiga2/indabaxtz2019/tree/master/talks/ML.js Crash Course.pdf) by Joshua Mabina
 5. [Indaba Application Motivation](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AI_Africa.pdf) by IndabaXTZ Team
 
 
@@ -20,7 +20,7 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
 2. Invited Talk 2 by Jumanne Mtambalike
 3. Posters Submitted
       * [Applying Convolutional Neural Networks in Malaria Diagnosis](https://github.com/twiga2/indabaxtz2019/tree/master/posters/CNN_MalariaDiagnosis.pdf)
-      * [Applying object detection to detect and count cars on the road and using reinforcement learning to control traffic congestion](RL_TrafficCongestion.pdf)
+      * [Applying object detection to detect and count cars on the road and using reinforcement learning to control traffic congestion](https://github.com/twiga2/indabaxtz2019/tree/master/posters/RL_TrafficCongestion.pdf)
       * [Applying Transfer Learning on a Residual Network for Diagnosing UTI](https://github.com/twiga2/indabaxtz2019/tree/master/posters/UTI_diagnosis.pdf)
       * [Applying Transfer Learning on MOBINET for Facial Authentication](https://github.com/twiga2/indabaxtz2019/tree/master/posters/MobiNet_FacialAuthentication.pdf)
       * [Development of Machine Learning Algorithm for Classifying Banana Diseases from Leaf Images](https://github.com/twiga2/indabaxtz2019/tree/master/posters/BananaDiseasesDiagnosis.pdf)
