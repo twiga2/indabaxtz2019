@@ -10,8 +10,8 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
 1. [Foundation of Machine Learning, Part 1](https://github.com/twiga2/indabaxtz2019/tree/master/talks/FoundationML.pdf) by Waziri Shebogholo and Ibrahim Mtandu
     * Notebook 1: [Foundation for ML](https://github.com/twiga2/indabaxtz2019/tree/master/notebooks/FoundationPyML.ipynb)
 2. [Foundation of Machine Learning, Part 2](https://github.com/twiga2/indabaxtz2019/tree/master/notebooks/LinearRegression.rar) by Frederick Apina and Ibrahim Mtandu
-3. Invited Talk 1: [AI and Healthcare](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AIandHealthcareIndabaTZ.pdf), *And making responsible Impact* by Ally Jr Salim 
-4. [Machine Learning using Javascript](https://github.com/twiga2/indabaxtz2019/tree/master/talks/ML.js Crash Course.pdf) by Joshua Mabina
+3. Invited Talk 1: [AI and Healthcare](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AIandHealthcareIndabaTZ.pdf), *And making responsible Impact* by Ally Jr Salim
+4. [Machine Learning using Javascript](https://github.com/twiga2/indabaxtz2019/tree/master/talks/ML.js&nbpsCrash&nbpsCourse.pdf) by Joshua Mabina
 5. [Indaba Application Motivation](https://github.com/twiga2/indabaxtz2019/tree/master/talks/AI_Africa.pdf) by IndabaXTZ Team
 
 
