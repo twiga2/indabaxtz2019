@@ -16,7 +16,7 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
 
 
 ### Day 2
-1. Mathematics for Machine Learning
+1. [Mathematics for Machine Learning](https://github.com/twiga2/indabaxtz2019/tree/master/talks/IndabaX_MML.pdf) by Dina Machuve
 2. Invited Talk 2 by Jumanne Mtambalike
 3. Posters Submitted
       * [Applying Convolutional Neural Networks in Malaria Diagnosis](https://github.com/twiga2/indabaxtz2019/tree/master/posters/CNN_MalariaDiagnosis.pdf)
