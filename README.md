@@ -28,7 +28,7 @@ Dates: 10<sup>th</sup> to 12<sup>th</sup> April, 2019
       * [Health care prediction using data mining system (HPDMS)](https://github.com/twiga2/indabaxtz2019/tree/master/posters/HealthCare_DataMiningTool.pdf)
       * [Leveraging Machine Intelligence for Pneumonia Diagnosis](https://github.com/twiga2/indabaxtz2019/tree/master/posters/ML_Pneumonia.pdf)
 
-4. Invited Talk 3 by Nyalleng Moorosi
+4. Invited Talk 3:[Exploring AI Opportunities in Africa](https://github.com/twiga2/indabaxtz2019/tree/master/talks/ML4D.pdf) by Nyalleng Moorosi
 
 ### Day 3
 1. [Applied Computer Vision in Agriculture](https://github.com/twiga2/indabaxtz2019/tree/master/talks/IndabaXTZ_Denis.pdf) by Denis Pastory
